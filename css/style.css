@@ -15,25 +15,26 @@ a {
     padding-left: 10%;
     padding-right: 10%;
 }
-img {
-    height: 300px;
+figure {
     width: 100%;
+    height: 100%;
+}
+img {
+    height: 60%;
+    width: 100%
 }
 figcaption {
     margin: 0px;
     padding-left: 5%;
     padding-right: 5%;
     line-height: 2em;
-    margin-top: 8%;
-    padding-bottom: 3%;
+    margin-top: 7%;
+    padding-bottom: 1%;
 }
 article {
     padding-top: 1%;
 }
 nav {
     padding-right: 3%;
-}
-
-nav {
     padding-left: 40%;
 }
